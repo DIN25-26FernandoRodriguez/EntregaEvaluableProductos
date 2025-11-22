@@ -12,10 +12,18 @@ la pantalla de su dispositivo.
 Esto va a mejorar su experiencia ya que va a poder tener todas las opciones en la misma pantalla, sin necesidad de tener que 
 desplazarse mediante el uso de gestos táctiles hacia otras partes de la web para buscar las secciones.
 
+<img width="475" height="575" alt="image" src="https://github.com/user-attachments/assets/abf3bea7-c619-47e3-b496-af5cd7e83fb8" />
+<img width="476" height="547" alt="image" src="https://github.com/user-attachments/assets/059aa463-d4a4-4b15-8693-56a51f8fc1bb" />
+
+
+
 #### Botones situacionales
 Para mejorar la experiencia del usuario, se han añadido funcionalidades como botones para la redirección del usuario a las páginas anteriores, 
 sin tener que ir expresamente al inicio y volver a empezar la ruta que habia tomado para llegar hasta donde quiere.
 Esto ayuda a que el usuario no pierda la paciencia y siempre sepa en que lugar se encuentra de la página.
+
+<img width="847" height="542" alt="image" src="https://github.com/user-attachments/assets/0906f539-b850-4fff-b47d-fdcd017244c3" />
+
 
 #### ScrollToTop
 Haciendo la web, me he dado cuenta de que cuando en la página de listado de todos los productos, deslizabas hasta abajo hasta el punto que se 
@@ -37,6 +45,10 @@ pueda **leer mediante voz** las descripciones de las diferentes partes de la mis
 discapacidad visual, puedan reconocer que elementos son los que se está encontrando en cada momento a lo
 largo de su navegación por el sitio web.
 
+<img width="327" height="398" alt="image" src="https://github.com/user-attachments/assets/a31fe616-4e4f-46ee-b7fe-6cf41071b7f7" />
+
+
+
 Se han hecho varias pruebas para la comprobación de que esa opción esta funcionando correctamente y las ha
 pasado satisfactoriamente.
 ---
@@ -46,5 +58,8 @@ Otra función de accesibilidad que se ha implantado en la web, ha sido la posibi
 opciones que la web nos da mediante el uso del tabulador.
 
 Para garantizar que funcione correctamente, se han hecho varias pruebas y las ha superado correctamente.
+
+<img width="481" height="207" alt="image" src="https://github.com/user-attachments/assets/0edcd870-96f7-430c-a153-baf497670f16" />
+
 
 
